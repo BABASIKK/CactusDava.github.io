@@ -1,0 +1,32 @@
+.custom-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.custom {
+    margin-left: 400px;
+    width: 1800px;
+    height: 500px;
+    border-radius: 25px;
+    pointer-events: none;
+    text-align: center;
+    background-image: url(/files/images/background-custom.jpg);
+}
+
+.custom-logo img {
+    pointer-events: none;
+    margin-bottom: -100px;
+    width: 400px;
+}
+
+.button-custom {
+    height: 60px;
+    width: 450px;
+    line-height: 60px;
+    margin-left: 700px;
+    background-color: white;
+    margin-top: -200px;
+    border-radius: 15px;
+    font-family: "Ubuntu", monospace;
+    font-size: 25px;
+}

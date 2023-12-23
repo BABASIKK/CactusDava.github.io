@@ -1,0 +1,65 @@
+.information-block {
+    background-color: black;
+    margin-top: 220px;
+    width: 100% auto;
+    height: 300px;
+}
+
+.block-section {
+    color: white;
+    margin-left: 100px;
+    margin-top: -170px;
+    font-size: 10px;
+    font-family: "Ubuntu", sans-serif;
+}
+
+.block-wrapper-section {
+    margin-left: -30px;
+    font-size: 6px;
+    text-align: center;
+    margin-right: 2300px;
+    white-space: nowrap;
+}
+
+.block-information {
+    color: white;
+    margin-left: 700px;
+    margin-top: -255px;
+    font-size: 10px;
+    font-family: "Ubuntu", sans-serif;
+}
+
+.block-wrapper-information {
+    margin-left: 40px;
+    font-size: 6px;
+    text-align: center;
+    margin-right: 2600px;
+    white-space: nowrap;
+}
+
+.block-mobile {
+    color: white;
+    margin-left: 1400px;
+    margin-top: -207px;
+    font-size: 10px;
+    font-family: "Ubuntu", sans-serif;
+}
+
+.block-wrapper-mobile {
+    margin-left: -10px;
+    font-size: 6px;
+    text-align: center;
+    margin-right: 2600px;
+    white-space: nowrap;
+}
+
+.down {
+    font-size: 13px;
+    margin-top: 20px;
+}
+
+.down-info {
+    margin-left: -45px;
+    font-size: 13px;
+    margin-top: 40px;
+}

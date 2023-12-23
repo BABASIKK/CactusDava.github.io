@@ -1,0 +1,15 @@
+.new-year {
+    position: relative; /* изменяем значение свойства position с absolute на relative */
+    margin: 0 auto; /* добавляем значение auto к свойству margin */
+    max-width: 100%; /* добавляем свойство max-width со значением 100% */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 150px;
+  }
+  
+  .ny-ad {
+    width: 80%; /* добавляем свойство width со значением 100% */
+    height: auto; /* изменяем значение свойства height на auto */
+    border-radius: 20px;
+  }
